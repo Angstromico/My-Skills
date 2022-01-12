@@ -74,7 +74,7 @@ function App() {
         <FaChevronRight />
       </button>
       <footer className="footer">
-        <a href="https://react-manuel-morales-portfolio.netlify.app/">
+        <a href="https://manuel-morales-react-portfolio.netlify.app/">
           {rightClosingArrow}View My Portfolio{leftArrow}
         </a>
       </footer>

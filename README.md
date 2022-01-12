@@ -1,4 +1,4 @@
-# Color Ranking App on React
+# My Skills Slider
 
 ![Screenshop](https://raw.githubusercontent.com/Angstromico/React-App-Skills/master/MySkills.png)
 
